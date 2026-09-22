@@ -13,8 +13,7 @@ the systems that make campaigns run, data flow, and teams operate.
 From self-hosted LLMs to multi-server infrastructure to the backoffice everyone relies on.
 ```
 
-> Almost everything I ship lives in private repositories. The green squares are real,
-> the code behind them belongs to the companies I work for.
+> Most of my work lives in private repositories.
 
 ## What I do
 
@@ -34,7 +33,7 @@ From self-hosted LLMs to multi-server infrastructure to the backoffice everyone 
 - Model qualification and benchmarking against concrete business use-cases
 
 **AdTech & AdOps**
-- DSP expertise across the major platforms (Adform, DV360, The Trade Desk, Xandr, PubMatic...)
+- DSP expertise across the major platforms (Adform, DV360, Xandr, PubMatic)
 - Pixels and tags, client-side and server-side, and data-integrity validation on any client stack
 
 ## Stack
@@ -57,10 +56,10 @@ From self-hosted LLMs to multi-server infrastructure to the backoffice everyone 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0c0c0e?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0c0c0e?style=flat-square&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/vGPU_NVIDIA_L4-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-## Let's talk
+## Contact
 
-Engineering, AdTech or running AI in production: [mathiasrui.dev](https://mathiasrui.dev) · [LinkedIn](https://www.linkedin.com/in/mathias-rui-lopes)
+[mathiasrui.dev](https://mathiasrui.dev) · [LinkedIn](https://www.linkedin.com/in/mathias-rui-lopes)
