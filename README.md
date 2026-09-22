@@ -17,6 +17,12 @@ From self-hosted LLMs to multi-server infrastructure to the backoffice everyone 
 
 ## What I do
 
+**Technical leadership**
+- Lead developer and sole senior technical profile: I own the whole technical scope and its roadmap
+- Run the dev team in weekly cycles, from scoping and code review to production releases
+- Design architectures, from single-server setups to multi-server deployments
+- Technical interface between business teams and the systems they depend on, and co-manager of the trafficking team
+
 **Full-stack development**
 - Internal backoffice used daily to manage 2,000+ campaigns and the front-end ad-buying platform (Symfony, Doctrine, Twig)
 - Node.js services: ML components, DSP connectors, ingestion pipelines for campaign data
